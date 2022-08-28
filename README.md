@@ -78,7 +78,7 @@ In this section, you will build a named entity recognition model for both coins 
 
 ### Resources
 
-[Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
+[ Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
 
 
 ### Hints and Considerations
